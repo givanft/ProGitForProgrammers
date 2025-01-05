@@ -12,5 +12,9 @@ namespace ProGitForProgrammers
         {
             return lhs + rhs;
         }
+        public int Subtract(int lhs, int rhs)
+        {
+            return lhs - rhs;
+        }
     }
 }
