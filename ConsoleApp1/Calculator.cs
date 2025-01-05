@@ -20,5 +20,9 @@ namespace ProGitForProgrammers
         {
             return lhs * rhs;
         }
+        public int Divide(int lhs, int rhs)
+        {
+            return lhs / rhs;
+        }
     }
 }
