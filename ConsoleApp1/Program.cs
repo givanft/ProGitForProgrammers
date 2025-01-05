@@ -13,10 +13,3 @@ namespace ConsoleApp1
         }
     }
 }
-
-namespace ProGitForProgrammers
-{
-    public class Calculator
-    {
-    }
-}
