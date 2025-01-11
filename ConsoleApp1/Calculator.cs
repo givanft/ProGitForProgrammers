@@ -17,14 +17,6 @@ namespace ProGitForProgrammers
         {
             return lhs - rhs;
         }
-        public int Multiply(int lhs, int rhs)
-        {
-            return lhs * rhs;
-        }
-        public int MultiplyBy10(int lhs, int rhs)
-        {
-            return (lhs * rhs) * 10;
-        }
         public int Divide(int lhs, int rhs)
         {
             return lhs / rhs;
