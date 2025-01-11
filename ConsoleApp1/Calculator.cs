@@ -19,7 +19,7 @@ namespace ProGitForProgrammers
         }
         public int Divide(int lhs, int rhs)
         {
-            return lhs, repol, see / rhs * 10;
+            return lhs / rhs;
         }
 
     }
