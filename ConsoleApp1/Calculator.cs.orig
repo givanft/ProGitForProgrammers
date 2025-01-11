@@ -22,7 +22,7 @@ namespace ProGitForProgrammers
 <<<<<<< HEAD
             return rhs * 10;
 =======
-            return lhs, repol, see / rhs * 10;
+            return lhs / rhs;
 >>>>>>> master
         }
 
